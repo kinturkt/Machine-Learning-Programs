@@ -22,10 +22,19 @@ Machine Learning Models: Linear Regression, Random Forest, Gradient Boosting
 
 📊 Features
 The dataset used in this project includes the following features:
-
 Area (in square feet)
 Bedrooms, Bathrooms
 Stories
 Furnishing Status (Furnished, Semi-Furnished, Unfurnished)
 Air Conditioning, Basement, and Parking Availability
 Price (Target Variable)
+
+📈 Model Evaluation
+The models are evaluated using the following metrics:
+Root Mean Squared Error (RMSE)
+R² Score
+
+🔮 Future Work
+Incorporate more advanced models like Neural Networks.
+Fine-tune hyperparameters to further improve model performance.
+Explore additional features that might improve prediction accuracy.
