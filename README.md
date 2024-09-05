@@ -1,1 +1,1 @@
-In this repository, I have made use of several models of Machine Learning which are listed here.
+In this repository, I have implemented various Machine Learning models, each demonstrated through different algorithms and datasets. The models range from fundamental algorithms like K-Nearest Neighbors (KNN) to more advanced techniques such as Regression, Classification, and Clustering. The goal is to provide clear, practical examples of how these algorithms work, along with code implementations that are easy to understand and apply to new datasets
