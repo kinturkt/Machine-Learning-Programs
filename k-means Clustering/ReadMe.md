@@ -10,7 +10,7 @@ The primary objective is to cluster various datasets and analyze the error acros
 - **Iterative Cluster Refinement:** The centroids are updated iteratively until convergence. <br>
 - **Sum of Squared Errors (SSE):** Evaluates clustering quality using SSE, which is plotted against different K values. <br>
 - **Comparison with Weka:** Accuracy of the custom K-Means implementation is compared with the Weka software’s built-in clustering algorithm.
-  
+
+## Running the Code
 ```bash
-## Running the Project
-To Run the code: python 1002178072.py <dataset_file>
+python 1002178072.py <dataset_file>
