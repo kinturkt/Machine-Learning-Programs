@@ -12,10 +12,10 @@ knn.ipynb: Jupyter Notebook for implementing the KNN algorithm from scratch. <br
 README.md: Project description and instructions.
 
 🔑 **Key Features:** <br>
-Manual Distance Calculation: Implements Euclidean or Cosine distance from scratch to find the k-nearest neighbors. <br>
-Text Preprocessing: Tokenizes and vectorizes the text data before applying the KNN algorithm. <br>
-Classification: Predicts the label of the input text data based on majority voting from the nearest neighbors. 
-
+**Manual Distance Calculation:** Implements Euclidean or Cosine distance from scratch to find the k-nearest neighbors. <br>
+**Text Preprocessing:** Tokenizes and vectorizes the text data before applying the KNN algorithm. <br>
+**Multi-Dataset Evaluation:** The algorithm is evaluated on three different datasets to assess its performance and versatility. <br>
+**Classification:** Predicts the label of the input text data based on majority voting from the nearest neighbors. 
 
 📈 **Future Enhancements:** <br>
 Add cross-validation to improve model evaluation. <br>
